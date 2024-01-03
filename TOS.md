@@ -18,7 +18,7 @@ By using the OptiVote, you agree to comply with and be bound by the following te
 3.2 **User Votes:** The Bot stores user votes temporarily for the duration of a poll to prevent duplicate voting. After the poll ends, user vote data is discarded.
 
 ### 4. Modifications to the Terms
-The Bot developer reserves the right to modify these Terms of Service at any time. Notification of changes will be posted on the official [Your Bot Name] Discord server.
+The Bot developer reserves the right to modify these Terms of Service at any time. Notification of changes will be posted on the official [Discord server](https://discord.gg/YHNdshGd2A).
 
 ### 5. Disclaimer of Warranty
 The Bot is provided "as is" without any warranty of any kind. The Bot developer does not guarantee the accuracy, reliability, or availability of the Bot.
